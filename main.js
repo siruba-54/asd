@@ -1,4 +1,4 @@
-var milkcocoa = new MilkCocoa("https://io-ki3b5dnl0.mlkcca.com");
+<script src="http://cdn.mlkcca.com/v0.2.8/milkcocoa.js"></script>
 var chatDataStore = milkcocoa.dataStore("chat");
 var textArea, board;
 window.onload = function(){
